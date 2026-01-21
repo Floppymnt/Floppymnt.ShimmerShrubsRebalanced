@@ -5,9 +5,14 @@
   "Description": "This is a rebalance of recipes to make smelting more lucrative in the ealry-game stages. All credit to Darkhax for the original mod.",
   "Authors": [
     {
+      "Name": "Darkhax",
+      "Email": "",
+      "Url": "https://github.com/Darkhax"
+    },
+    {
       "Name": "Floppymnt",
       "Email": "",
-      "Url": ""
+      "Url": "https://github.com/Floppymnt"
     }
   ],
   "Website": "",
