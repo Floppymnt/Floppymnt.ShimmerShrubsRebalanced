@@ -11,8 +11,8 @@
       "Id": "Furnace"
     }
   ],
-  "OutputQuantity": 3,
-  "TimeSeconds": 18,
+  "OutputQuantity": 1,
+  "TimeSeconds": 1,
   "PrimaryOutput": {
     "ItemId": "Ingredient_Bar_Iron",
     "Quantity": 3

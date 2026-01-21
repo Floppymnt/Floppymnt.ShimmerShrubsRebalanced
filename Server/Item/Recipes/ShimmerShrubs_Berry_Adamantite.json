@@ -2,7 +2,7 @@
   "Input": [
     {
       "ItemId": "Darkhax_ShimmerShrubs_Berry_Adamantite",
-      "Quantity": 2
+      "Quantity": 5
     }
   ],
   "BenchRequirement": [
@@ -11,10 +11,10 @@
       "Id": "Furnace"
     }
   ],
-  "OutputQuantity": 3,
-  "TimeSeconds": 18,
+  "OutputQuantity": 1,
+  "TimeSeconds": 1,
   "PrimaryOutput": {
     "ItemId": "Ingredient_Bar_Adamantite",
-    "Quantity": 3
+    "Quantity": 1
   }
 }

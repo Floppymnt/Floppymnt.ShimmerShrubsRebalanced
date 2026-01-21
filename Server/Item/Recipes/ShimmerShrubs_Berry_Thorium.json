@@ -1,7 +1,7 @@
 {
   "Input": [
     {
-      "ItemId": "Darkhax_ShimmerShrubs_Berry_Onyxium",
+      "ItemId": "Darkhax_ShimmerShrubs_Berry_Thorium",
       "Quantity": 2
     }
   ],
@@ -11,10 +11,10 @@
       "Id": "Furnace"
     }
   ],
-  "OutputQuantity": 3,
+  "OutputQuantity": 1,
   "TimeSeconds": 18,
   "PrimaryOutput": {
-    "ItemId": "Ingredient_Bar_Onyxium",
+    "ItemId": "Ingredient_Bar_Thorium",
     "Quantity": 3
   }
 }

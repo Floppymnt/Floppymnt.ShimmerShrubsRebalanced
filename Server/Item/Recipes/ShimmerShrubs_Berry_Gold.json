@@ -1,7 +1,7 @@
 {
   "Input": [
     {
-      "ItemId": "Darkhax_ShimmerShrubs_Berry_Cobalt",
+      "ItemId": "Darkhax_ShimmerShrubs_Berry_Gold",
       "Quantity": 2
     }
   ],
@@ -11,10 +11,10 @@
       "Id": "Furnace"
     }
   ],
-  "OutputQuantity": 3,
+  "OutputQuantity": 1,
   "TimeSeconds": 18,
   "PrimaryOutput": {
-    "ItemId": "Ingredient_Bar_Cobalt",
+    "ItemId": "Ingredient_Bar_Gold",
     "Quantity": 3
   }
 }
